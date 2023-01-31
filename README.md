@@ -1,3 +1,1 @@
-# github-practice
-fetch
-pull --rebase
+タイトルを変更
